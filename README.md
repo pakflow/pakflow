@@ -1,4 +1,4 @@
-## **[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+Nice+to+see+you;I'm+Maxim,+Frontend+Developer)](https://git.io/typing-svg)** 👋
+## **[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey!+Nice+to+see+you+👋;I'm+Maxim,+Frontend+Developer)](https://git.io/typing-svg)** 
 
 
 **Welcome to my page!**
