@@ -19,11 +19,10 @@ I'm Frontend Developer, code quality&clean Perfectionist
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
 
-**Open source projects**
-
+**Open source projects**  
 [App with own react, router, state manager](github.com/pakflow/Typicode-Task)  
 [Online watch shop](github.com/pakflow/Shop)
---------------------------------------------
+
 
 ### **Where to find me**
 ![https://roslovets.github.io/tg/pakflow](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
