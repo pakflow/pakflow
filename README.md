@@ -20,8 +20,8 @@ I'm Frontend Developer, code quality&clean Perfectionist
 
 
 **Open source projects**  
-[App with own react, router, state manager](https://github.com/pakflow/Typicode-Task)  
-[Online watch shop](https://github.com/pakflow/Shop)
+[⭐️ **App with own react, router, state manager**](https://github.com/pakflow/Typicode-Task)  
+[⭐️ **Online watch shop**](https://github.com/pakflow/Shop)
 
 
 ### **Where to find me**
